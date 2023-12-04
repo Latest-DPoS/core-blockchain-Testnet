@@ -1,7 +1,7 @@
 # Latest Chain
 
 ## Introduction to Latest Chain
-Latest Chain (Latest) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Latest is HT and it adopts the HPoS consensus mechanism. Latest will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+Latest Chain (Latest) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Latest is LTC and it adopts the DPoS consensus mechanism. Latest will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -14,14 +14,14 @@ Technological innovation is the driving force behind the advancement of the bloc
 - Average block interval: 3s
 
 ## Consensus Mechanism
-HPoS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
+DPoS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
 
 The maximum number of validators supported is 21.
 
 ## Economic Model 
-The endogenous token on the chain is HT; the transactions consume HT as gas fee.
+The endogenous token on the chain is LATEST; the transactions consume LATEST as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge LATEST to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Latest by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Latest. 
@@ -102,7 +102,7 @@ In October 2021, Latest has now entered the "Spark" phase, which focuses on impr
 ### Financial Support
 - Latest will set up a special fund to invest, support and incentivize high-potential developers.
 - Latest will launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on Latest Dapp, the Latest meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
+- In order to reduce the cost of users on Latest Dapp, the Latest meta transaction function will reduce the gas fee of users holding LATEST in a step-wise manner.
 
 ### Resource Support
 - Projects or developers that have received investment and support from Latest have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
@@ -112,7 +112,7 @@ In October 2021, Latest has now entered the "Spark" phase, which focuses on impr
 ### Participate in Test Environment of Latest
 
 #### Official Website
-www.Latestchain.com
+www.Latestchain.io
 
 #### Public Testnet
 chainid 369
