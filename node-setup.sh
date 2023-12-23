@@ -47,13 +47,13 @@ task4(){
   echo -e '\nPATH=$PATH:/usr/local/go/bin' >>/etc/profile
 
   if [[ $totalValidator -gt 0 ]]; then
-      echo -e '\ncd /root/core-blockchain/' >>/etc/profile
-      echo -e '\nbash /root/core-blockchain/node-start.sh --validator' >>/etc/profile
+      echo -e '\ncd /root/Testlab/' >>/etc/profile
+      echo -e '\nbash /root/Testlab/node-start.sh --validator' >>/etc/profile
   fi
 
   if [[ $totalRpc -gt 0 ]]; then
-      echo -e '\ncd /root/core-blockchain/' >>/etc/profile
-      echo -e '\nbash /root/core-blockchain/node-start.sh --rpc' >>/etc/profile
+      echo -e '\ncd /root/Testlab/' >>/etc/profile
+      echo -e '\nbash /root/Testlab/node-start.sh --rpc' >>/etc/profile
   fi
   export PATH=$PATH:/usr/local/go/bin
   go env -w GO111MODULE=off
